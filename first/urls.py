@@ -1,6 +1,5 @@
-from django.urls import path, include
-from django.contrib import admin
+from django.urls import path
+from first import views
 
-urlpatterns = [path('admin/', admin.site.urls),
-               path('first/', include('first.urls'))
+urlpatterns = [path('signup', views.SignupView.as_view(), name='signup'),
                ]
