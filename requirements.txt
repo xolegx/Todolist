@@ -1,0 +1,12 @@
+asgiref==3.8.1
+attrs==22.1.0
+Django==4.2.11
+djangorestframework==3.15.1
+django-filter
+dotenv==1.0.1
+psycopg2==2.9.9
+pydantic==2.3.0
+pytest==7.4.2
+requests==2.31.0
+sqlparse==0.4.4
+tzdata==2024.1
