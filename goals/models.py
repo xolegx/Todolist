@@ -61,7 +61,7 @@ class BoardParticipant(BaseModel):
         verbose_name = "Участник"
         verbose_name_plural = "Участники"
 
-
+'''
 class Goal(BaseModel):
     class Meta:
         verbose_name = "Цель"
@@ -121,7 +121,7 @@ class Goal(BaseModel):
     def __str__(self):
         return self.title
 
-
+'''
 class GoalComment(BaseModel):
     user = models.ForeignKey(
         User,
