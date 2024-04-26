@@ -43,3 +43,21 @@ class GoalCreateSerializer(serializers.ModelSerializer):
 
             return value
 
+class GoalSerializer(serializers.ModelSerializer):
+    category = serializers.PrimaryKeyRelatedField(
+        queryset=GoalCategory.objects.filter(is_deleted=False)
+    )
+
+    class Meta:
+        model = Goal
+        fields = "__all__"
+        read_only_fields = ("id", "created", "updated", "user")
+
+        def validate_category(self, value: Type[GoalCategory]):
+            if self.context['request'].user != value.user:
+                raise PermissionDenied
+
+            return value
+
+
+

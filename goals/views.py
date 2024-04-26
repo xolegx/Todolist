@@ -10,7 +10,7 @@ from rest_framework.pagination import LimitOffsetPagination
 from goals.models import GoalCategory#, Goal, GoalComment, Board
 #from goals.permissions import BoardPermissions, GoalCategoryPermissions#, IsOwnerOrReadOnly, GoalPermissions, \
 #     CommentPermissions
-from goals.serializer import GoalCategoryCreateSerializer, GoalCategorySerializer#, GoalCreateSerializer, \
+from goals.serializer import GoalCategoryCreateSerializer, GoalCategorySerializer, GoalCreateSerializer#, \
     # GoalSerializer, GoalCommentCreateSerializer, GoalCommentSerializer, BoardCreateSerializer, BoardSerializer, \
     # BoardListSerializer
 
@@ -51,4 +51,8 @@ class GoalCategoryView(RetrieveUpdateDestroyAPIView):
         instance.is_deleted = True
         instance.save(update_fields=("is_deleted",))
         return instance
+
+class GoalCreateView(CreateAPIView):
+    serializer_class = GoalCreateSerializer
+    permission_classes = [permissions.IsAuthenticated]
 
