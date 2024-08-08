@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Todolist"]
+	url = https://github.com/xolegx/Todolist
+	fetch = +refs/heads/*:refs/remotes/Todolist/*
+[remote "origin"]
+	url = https://github.com/xolegx/Todolist.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main

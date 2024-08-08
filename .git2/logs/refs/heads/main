@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 00c6663c046a71840162980954582605b9e29851 Хизриев Олег В <ohizriev@grc.ru> 1713504635 +0500	branch: Created from HEAD
+00c6663c046a71840162980954582605b9e29851 1b5fd209ed6c131dd6deed06f05af755b106a920 Хизриев Олег В <ohizriev@grc.ru> 1713519862 +0500	commit: 'add_goals'
+1b5fd209ed6c131dd6deed06f05af755b106a920 3e86079b48af8b5240ca6a35e7d4af98db2c1c59 Хизриев Олег В <ohizriev@grc.ru> 1713520879 +0500	commit: 'PK_in_admin'
+3e86079b48af8b5240ca6a35e7d4af98db2c1c59 afd0c84f4e8527e7f8ac3ec2fc0c1a88eeb9990e Хизриев Олег В <ohizriev@grc.ru> 1713862189 +0500	commit: 'model_goal'
+afd0c84f4e8527e7f8ac3ec2fc0c1a88eeb9990e 1c2124663f3cd5502b03c070268d932bbb53089f Хизриев Олег В <ohizriev@grc.ru> 1714129880 +0500	commit: 'goal_ser
+1c2124663f3cd5502b03c070268d932bbb53089f 5fc37d6c45aab557851f4242912c8c6045a1a019 Хизриев Олег В <ohizriev@grc.ru> 1714130511 +0500	commit: 'goal_ser'
+5fc37d6c45aab557851f4242912c8c6045a1a019 5fc37d6c45aab557851f4242912c8c6045a1a019 xoleg <xolegx89@gmail.com> 1722958179 +0500	Branch: renamed refs/heads/goals to refs/heads/main

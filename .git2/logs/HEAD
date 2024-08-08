@@ -1,0 +1,24 @@
+0000000000000000000000000000000000000000 f0e6ffe3f14c0e9fd349d278adc8aa08034ba464 Хизриев Олег В <ohizriev@grc.ru> 1711968882 +0500	commit (initial): 'start'
+f0e6ffe3f14c0e9fd349d278adc8aa08034ba464 f0e6ffe3f14c0e9fd349d278adc8aa08034ba464 Хизриев Олег В <ohizriev@grc.ru> 1711970433 +0500	checkout: moving from master to dev
+f0e6ffe3f14c0e9fd349d278adc8aa08034ba464 57d5be6db0ceea3e44bde94b6460a1924942ca21 Хизриев Олег В <ohizriev@grc.ru> 1712052232 +0500	commit: 'add_first_urls'
+57d5be6db0ceea3e44bde94b6460a1924942ca21 b0a5b4c817cb49266e7b24e234a7d7933d3f7d50 Хизриев Олег В <ohizriev@grc.ru> 1712053063 +0500	commit: 'add_serializers.py'
+b0a5b4c817cb49266e7b24e234a7d7933d3f7d50 9db5a340861197134b26504af9db21103956b094 Хизриев Олег В <ohizriev@grc.ru> 1712144584 +0500	commit: 'add_group'
+9db5a340861197134b26504af9db21103956b094 92b04ec9515d2252465ee02d0beede2454c3351a Хизриев Олег В <ohizriev@grc.ru> 1712221617 +0500	commit: 'create_user_serial'
+92b04ec9515d2252465ee02d0beede2454c3351a d702f96aaf355aecda618ad95822bc441a1447f7 Хизриев Олег В <ohizriev@grc.ru> 1712317476 +0500	commit: 'add_validate'
+d702f96aaf355aecda618ad95822bc441a1447f7 31b439a3607edfe67aa001911882a31d12c915ad Хизриев Олег В <ohizriev@grc.ru> 1712922234 +0500	commit: 'create_ser'
+31b439a3607edfe67aa001911882a31d12c915ad 4ae2a6a9a4fc6d4ae290090af062c584a844c797 Хизриев Олег В <ohizriev@grc.ru> 1712984799 +0500	commit: 'add_signup'
+4ae2a6a9a4fc6d4ae290090af062c584a844c797 ae4d24d997b46c5dd1e74647d8afc7070c3a1c11 Хизриев Олег В <ohizriev@grc.ru> 1713254420 +0500	commit: 'add_req'
+ae4d24d997b46c5dd1e74647d8afc7070c3a1c11 a8efde22467d078b60243637e0ab47aa17c166f2 Хизриев Олег В <ohizriev@grc.ru> 1713333652 +0500	commit: 'add_env.py'
+a8efde22467d078b60243637e0ab47aa17c166f2 6330f53801ef4d12ccb81f0aaf0dfdc715216b37 Хизриев Олег В <ohizriev@grc.ru> 1713337116 +0500	commit: 'del_sqlitedb'
+6330f53801ef4d12ccb81f0aaf0dfdc715216b37 948ecf93fafed93c83190b9f6de9f5ed40195e5a Хизриев Олег В <ohizriev@grc.ru> 1713337131 +0500	commit: 'del_sqlitedb'
+948ecf93fafed93c83190b9f6de9f5ed40195e5a 02aa1e059157a807134ce52f4448ac982f30c897 Хизриев Олег В <ohizriev@grc.ru> 1713349094 +0500	commit: 'add_readme_psql'
+02aa1e059157a807134ce52f4448ac982f30c897 7084d21a36570a9a4586735eb5b246c37250dffd Хизриев Олег В <ohizriev@grc.ru> 1713349966 +0500	commit: 'move_pswdINenv'
+7084d21a36570a9a4586735eb5b246c37250dffd 00c6663c046a71840162980954582605b9e29851 Хизриев Олег В <ohizriev@grc.ru> 1713503440 +0500	commit: 'change_admin'
+00c6663c046a71840162980954582605b9e29851 00c6663c046a71840162980954582605b9e29851 Хизриев Олег В <ohizriev@grc.ru> 1713504635 +0500	checkout: moving from dev to goals
+00c6663c046a71840162980954582605b9e29851 1b5fd209ed6c131dd6deed06f05af755b106a920 Хизриев Олег В <ohizriev@grc.ru> 1713519862 +0500	commit: 'add_goals'
+1b5fd209ed6c131dd6deed06f05af755b106a920 3e86079b48af8b5240ca6a35e7d4af98db2c1c59 Хизриев Олег В <ohizriev@grc.ru> 1713520879 +0500	commit: 'PK_in_admin'
+3e86079b48af8b5240ca6a35e7d4af98db2c1c59 afd0c84f4e8527e7f8ac3ec2fc0c1a88eeb9990e Хизриев Олег В <ohizriev@grc.ru> 1713862189 +0500	commit: 'model_goal'
+afd0c84f4e8527e7f8ac3ec2fc0c1a88eeb9990e 1c2124663f3cd5502b03c070268d932bbb53089f Хизриев Олег В <ohizriev@grc.ru> 1714129880 +0500	commit: 'goal_ser
+1c2124663f3cd5502b03c070268d932bbb53089f 5fc37d6c45aab557851f4242912c8c6045a1a019 Хизриев Олег В <ohizriev@grc.ru> 1714130511 +0500	commit: 'goal_ser'
+5fc37d6c45aab557851f4242912c8c6045a1a019 0000000000000000000000000000000000000000 xoleg <xolegx89@gmail.com> 1722958179 +0500	Branch: renamed refs/heads/goals to refs/heads/main
+0000000000000000000000000000000000000000 5fc37d6c45aab557851f4242912c8c6045a1a019 xoleg <xolegx89@gmail.com> 1722958179 +0500	Branch: renamed refs/heads/goals to refs/heads/main
